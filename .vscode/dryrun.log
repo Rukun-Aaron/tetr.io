@@ -1,0 +1,4 @@
+make: Entering directory 'c:/Users/rukun/Workspaces/Cs235/tetr.io'
+docker build -t /tetr.io .
+make: Leaving directory 'c:/Users/rukun/Workspaces/Cs235/tetr.io'
+ 
